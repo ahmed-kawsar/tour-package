@@ -3,7 +3,10 @@ import React from 'react';
 const Loading = () => {
   return (
     <div className="loading">
-      <h1>loading...</h1>
+      <img
+        src="https://www.freeiconspng.com/thumbs/load-icon-png/load-icon-png-8.png"
+        alt="loading"
+      />
     </div>
   );
 };
